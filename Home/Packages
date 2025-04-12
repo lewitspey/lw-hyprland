@@ -1,0 +1,3 @@
+yay -S --needed localsend-bin fastanime-git mangal-bin youtube-music-bin visual-studio-code-bin ags-hyprpanel-git python-gpustat nwg-displays nwg-looks gpu-screen-recorder-gtk gpu-screen-recorder
+
+sudo pacman -S --needed pulseaudio-alsa qbittorrent telegram-desktop gnome-disk-utility libreoffice-still vlc fastfetch wofi wireplumber steam discord networkmanager nm-connection-editor python power-profiles-daemon btop mpv pavucontrol kate nemo waypaper kitty
